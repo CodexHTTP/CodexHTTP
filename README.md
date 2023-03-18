@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Python, JavaScript, <br>💬 Ask me about Html, CSS<br>📫 How to reach me codexhttp@gmail.com<br>
+🌱 I’m currently learning , JavaScript, C# <br>💬 Ask me about Html, CSS, Python <br>📫 How to reach me codexhttp@gmail.com<br>
 
 
 ## 🌐 Socials:
